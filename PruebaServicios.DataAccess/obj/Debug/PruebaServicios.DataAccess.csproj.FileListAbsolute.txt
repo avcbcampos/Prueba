@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.DataAccess\obj\Debug\PruebaServicios.DataAccess.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.DataAccess\obj\Debug\PruebaServicios.DataAccess.csproj.CoreCompileInputs.cache

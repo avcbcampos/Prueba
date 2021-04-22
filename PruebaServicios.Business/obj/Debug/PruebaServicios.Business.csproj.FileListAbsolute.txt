@@ -1,0 +1,1 @@
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Business\obj\Debug\PruebaServicios.Business.csproj.CoreCompileInputs.cache

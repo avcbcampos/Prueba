@@ -1,0 +1,2 @@
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicos.UI\obj\Debug\PruebaServicos.UI.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicos.UI\obj\Debug\PruebaServicos.UI.csproj.CoreCompileInputs.cache

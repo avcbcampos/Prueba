@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\PruebaServicios.Model.dll.config
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\PruebaServicios.Model.dll
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\PruebaServicios.Model.pdb
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\EntityFramework.dll
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\System.Data.SqlClient.dll
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\EntityFramework.xml
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\bin\Debug\System.Data.SqlClient.xml
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\obj\Debug\PruebaServicios.Model.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\obj\Debug\PruebaServicios.Model.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\obj\Debug\PruebaServicios.Model.csproj.CopyComplete
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\obj\Debug\PruebaServicios.Model.dll
+C:\Users\andre\source\repos\PruebaServicos.UI\PruebaServicios.Model\obj\Debug\PruebaServicios.Model.pdb
